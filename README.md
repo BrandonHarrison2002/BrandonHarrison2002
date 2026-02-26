@@ -16,7 +16,7 @@ What I’m Working On
     Building a personal home lab for practicing pen-testing and malware analysis.
     Studying for the CompTIA Security+ and CEH (Certified Ethical Hacker) certifications.
 
-Goals for 2025
+Goals for 2026
 
     Earn my first cybersecurity certification.
     Contribute to open-source security tools or write a blog about ethical hacking practices.
